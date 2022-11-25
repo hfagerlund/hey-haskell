@@ -3,4 +3,4 @@
 > *Introductory Haskell examples*
 
 ## License
-Refer to License [Simplified BSD License](https://github.com/hfagerlund/hey-haskell/blob/master/LICENSE).
+Copyright (c) 2022 Heini Fagerlund. Refer to [License](https://github.com/hfagerlund/hey-haskell/blob/master/LICENSE).
