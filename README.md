@@ -5,7 +5,7 @@
 ## Table of Contents
 
 <details>
-  <summary>Example One <em>[about&hellip;]</em></summary>
+  <summary>Example One [<em>more</em>&hellip;]</summary>
 
 <br />
 
@@ -15,11 +15,20 @@
 <!-- .................... -->
 
 <details>
-  <summary>Example Two <em>[about&hellip;]</em></summary>
+  <summary>Example Two [<em>more</em>&hellip;]</summary>
 
 <br />
 
 > Factorials
+
+</details>
+<!-- .................... -->
+<details>
+  <summary>Example Three [<em>more</em>&hellip;]</summary>
+
+<br />
+
+> Functions
 
 </details>
 <!-- .................... -->
