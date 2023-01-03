@@ -1,6 +1,6 @@
 # Quick start
 
-Based on example1 and example3.
+Based on [example1](https://github.com/hfagerlund/hey-haskell/tree/main/example1) and [example3](https://github.com/hfagerlund/hey-haskell/tree/main/example3).
 
 ## Filenames are case-sensitive (must match module name)
 ```
