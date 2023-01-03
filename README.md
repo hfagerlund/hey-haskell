@@ -32,6 +32,15 @@
 
 </details>
 <!-- .................... -->
+<details>
+  <summary>Example Four [<em>more</em>&hellip;]</summary>
+
+<br />
+
+> Modules
+
+</details>
+<!-- .................... -->
 
 ## License
 Copyright (c) 2022 Heini Fagerlund. Refer to [License](https://github.com/hfagerlund/hey-haskell/blob/main/LICENSE).
